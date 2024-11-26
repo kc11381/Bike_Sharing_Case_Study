@@ -85,9 +85,13 @@ cnt = 0.2348yr + 0.0547workingday + 0.4354temp - 0.1609windspeed - 0.0713spring 
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python - 3.10.11
+- numpy - 1.26.4
+- pandas - 2.2.1
+- matplotlib - 3.9.1
+- seaborn - 0.13.2
+- sklearn - 1.2.2
+- statsmodels - 0.14.4
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
