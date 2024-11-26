@@ -28,10 +28,8 @@ A US based bike-sharing system wants to know
 - Dataset - Bike sharing dataset is used. 
 
   - It is provided by upgrad(day.csv)
-  =========================================
-    Dataset characteristics
-  =========================================	
-    day.csv have the following fields:
+  - Dataset characteristics
+    - day.csv have the following fields:
 	
 	- instant: record index
 	- dteday : date
