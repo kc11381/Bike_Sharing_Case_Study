@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Case Study
 > Outline a brief description of your project.
 
 
