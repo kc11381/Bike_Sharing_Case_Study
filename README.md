@@ -55,6 +55,15 @@ A US based bike-sharing system wants to know
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Technologies Used
+- python - 3.10.11
+- numpy - 1.26.4
+- pandas - 2.2.1
+- matplotlib - 3.9.1
+- seaborn - 0.13.2
+- sklearn - 1.2.2
+- statsmodels - 0.14.4
+
 ## Conclusions
 - We have variables like temp which is lineraly related to cnt. So linear regression makes sense here.
 - Predictors for cnt and their coefficients are
@@ -82,16 +91,6 @@ cnt = 0.2348yr + 0.0547workingday + 0.4354temp - 0.1609windspeed - 0.0713spring 
 - There is a drastic drop in count(cnt) in the month of Dec and Nov.
 - When wheather is clear then count(cnt) is higher and when its Light and snow its drastically low.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- python - 3.10.11
-- numpy - 1.26.4
-- pandas - 2.2.1
-- matplotlib - 3.9.1
-- seaborn - 0.13.2
-- sklearn - 1.2.2
-- statsmodels - 0.14.4
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
