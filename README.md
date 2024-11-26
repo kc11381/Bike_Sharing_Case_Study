@@ -55,6 +55,8 @@ A US based bike-sharing system wants to know
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 ## Technologies Used
 - python - 3.10.11
 - numpy - 1.26.4
@@ -92,17 +94,15 @@ cnt = 0.2348yr + 0.0547workingday + 0.4354temp - 0.1609windspeed - 0.0713spring 
 - When wheather is clear then count(cnt) is higher and when its Light and snow its drastically low.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Linear Regression Model learning at Upgrade as part of AI/ML course.
+- This project was based on [this tutorial](https://learn.upgrad.com/course/5810/segment/56042/334812/1013171/5064649).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kc11381] - feel free to contact me!
 
 
 <!-- Optional -->
